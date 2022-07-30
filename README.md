@@ -7,21 +7,21 @@
 
 - 🌱 I’m currently learning **Vuejs and Vuetify**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kandjiabdou?tab=repositories](https://github.com/kandjiabdou?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/kandjiabdou?tab=repositories)
 
 - 💬 Ask me about **Java, PHP and Python**
 
 - 📫 How to reach me **abdou.k.kandji@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/kandjiabdou/blog/blob/master/CV_KANDJI_Abdou_DUT-Info_4_4.pdf](https://github.com/kandjiabdou/blog/blob/master/CV_KANDJI_Abdou_DUT-Info_4_4.pdf)
+- 📄 Know about my experiences [CV](https://github.com/kandjiabdou/blog/blob/master/CV_KANDJI_Abdou_DUT-Info_4_4.pdf)
 
 - ⚡ Fun fact **🏀 I Love Basketball ! 🏀 Is Life 🔥.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdoukandji7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdoukandji7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kandji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kandji" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abdou-kandji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdou-kandji" height="30" width="40" /></a>
+<a href="https://twitter.com/abdoukandji7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdoukandji7" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14474449/abdou-kandji" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdou-kandji" height="30" width="40" /></a>
 <a href="https://instagram.com/abdoukkandji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdoukkandji" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kandji-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kandji-dev" height="30" width="40" /></a>
 </p>
