@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm KANDJI</h1>
+<h3 align="center">Passionate about development, I am a curious and autonomous student. I like to discover new things and take on challenges. I have learned to master different technologies and I am ready to use my skills to support your team.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandjiabdou&label=Profile%20views&color=0e75b6&style=flat" alt="kandjiabdou" /> </p>
 
+- 🔭 I’m currently working on **Syllabus**
+
+- 🌱 I’m currently learning **Vuejs and Vuetify**
+
+- 👨‍💻 All of my projects are available at [https://github.com/kandjiabdou?tab=repositories](https://github.com/kandjiabdou?tab=repositories)
+
+- 💬 Ask me about **Java, PHP and Python**
+
 - 📫 How to reach me **abdou.k.kandji@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/kandjiabdou/blog/blob/master/CV_KANDJI_Abdou_DUT-Info_4_4.pdf](https://github.com/kandjiabdou/blog/blob/master/CV_KANDJI_Abdou_DUT-Info_4_4.pdf)
 
 - ⚡ Fun fact **🏀 I Love Basketball ! 🏀 Is Life 🔥.**
 
